@@ -1,5 +1,6 @@
 ---
-title: First Commit and Intro to Knowledge Base Topic
+title:
+aliases:
 ---
 ## First Commit and Intro to Knowledge Base Topic
 
