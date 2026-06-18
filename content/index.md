@@ -2,6 +2,15 @@
 title:
 aliases:
 ---
+## Main Categories
+___
+- [[category-01/index|Category 01]]
+- [[category-02/index|Category02]]
+- [[category-03/index|Category03]]
+- [[category-04/index|Category04]]
+- [[category-05/index|Category 5]]
+
+
 ## First Commit and Intro to Knowledge Base Topic
 
 The topic I have chosen is about collecting records. This a brand new hobby that I've recently gotten into but so far it's been exciting to learn about and the search has been very broad. It also ties in with my huge love for music. I don't just search for one genre, it'll usually depend on what I feel like looking for that day. My uncle even got to show me some of his records he's collected over the years and show me his old player as well. This has been a fun experience for me and I'm still learning some things on how to take care of my player and the records I have so far as well as searching for my favorite albums of music.
