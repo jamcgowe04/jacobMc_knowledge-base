@@ -5,10 +5,10 @@ aliases:
 ## Main Categories
 ___
 - [[category-01/index|Category 01]]
-- [[category-02/index|Category02]]
-- [[category-03/index|Category03]]
-- [[category-04/index|Category04]]
-- [[category-05/index|Category 5]]
+- [[category-02/index|Category 02]]
+- [[category-03/index|Category 03]]
+- [[category-04/index|Category 04]]
+- [[category-05/index|Category 05]]
 
 
 ## First Commit and Intro to Knowledge Base Topic
