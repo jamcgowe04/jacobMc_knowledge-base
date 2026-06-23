@@ -6,4 +6,4 @@ ___
 
 ## Related Categories
 
-Their are still a number of items that I hope to obtain the [[category-05/index|future]] in order to keep my record player running at it's best, and to keep my music in good condition.
+Their are still a number of items that I hope to obtain the future in order to keep my record player running at it's best, and to keep my [[category-02/index|music]] in good condition.
