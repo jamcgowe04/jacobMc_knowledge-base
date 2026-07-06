@@ -1,6 +1,11 @@
 ---
 title: Category 01
 ---
-___
-## About this knowledge base
+# Links:
+
+- [[Why I Started]]
+- [[Record Collecting]]
+- [[What makes vinyl different than streaming]]
+- [[History]]
+- [[Common Terms]]
 
