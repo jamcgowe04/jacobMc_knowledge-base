@@ -20,5 +20,5 @@ Released in 2021.*
 
 
 
-![[IMG_3987.PNG]]
+![[IMG_3987.jpg]]
 *Photo of my record player along with my stored records*
