@@ -18,3 +18,7 @@ Released in 2021.*
 ![[Pasted image 20260705172758.png]]
 *Core Innovations Wireless Bluetooth Turntable, 3-Speed Vinyl Record Player*
 
+
+
+![[IMG_3987.PNG]]
+*Photo of my record player along with my stored records*
