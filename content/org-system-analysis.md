@@ -1,7 +1,7 @@
 # Assignment 02: Analyzing an Organizing System
 
 
-## The Public Knowledge base I've selected is History.com. This website carries knowledge, as well as facts on the worlds past that goes back centuries. It's an expandable knowledge base that is like an online museum that continues to record major events, and studies.
+## The public knowledge base I've selected is History.com. This website carries knowledge, as well as facts on the worlds past that goes back centuries. It's an expandable knowledge base that is like an online museum that continues to record major events, and studies.
 
   
 
