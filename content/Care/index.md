@@ -22,4 +22,4 @@ ___
 
 - [[Equipment/index|Equipment]]
 - [[Buying/index|Buying]] 
-- [[About|About]]
+- [[About/index|About]]

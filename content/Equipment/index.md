@@ -20,4 +20,4 @@ This Section Covers the essentials of a vinyl playback system and describes and 
 
 - [[Care/index|Care]]
 - [[Buying/index|Buying]]
-- [[About|About]]
+- [[About/index|About]]

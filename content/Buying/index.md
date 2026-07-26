@@ -19,4 +19,4 @@ ___
 ### More on Record Collecting
 [[Equipment/index|Equipment]]
 [[Care/index|Care]]
-[[About|About]]
+[[About/index|About]]

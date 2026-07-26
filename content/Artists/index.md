@@ -11,6 +11,6 @@ This section covers the albums I've collected thus far. Every record collection 
 
 ## More on Record Collecting
 
-[[About|About]]
+[[About/index|About]]
 [[Care/index|Care]]
 [[Buying/index|Buying]]
