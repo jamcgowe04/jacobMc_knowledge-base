@@ -7,7 +7,7 @@ Welcome!
 This site explores the hobby of collecting vinyl records. Use the categories below to navigate through this knowledge base
 ## Categories
 
-- [[About/index|About Record Collecting]]
+- [[About|About Record Collecting]]
 - [[Buying/index|Buying Records]]
 - [[Care/index|Record Care]]
 - [[Artists/index|Artists & Collections]]

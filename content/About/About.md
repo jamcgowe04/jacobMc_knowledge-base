@@ -1,5 +1,5 @@
 ---
-title: " Index"
+title: " About"
 date: 2026-07-25
 ---
 ___

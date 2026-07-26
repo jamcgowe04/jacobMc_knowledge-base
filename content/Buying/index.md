@@ -2,7 +2,7 @@
 title: Buying
 date: 2026-07-25
 ---
-# Buying Records
+___
 
 This section explores different ways to purchase records, how to grade them, and what steps to take in researching and recognizing the value that a record can possess. 
 
@@ -19,4 +19,4 @@ ___
 ### More on Record Collecting
 [[Equipment/index|Equipment]]
 [[Care/index|Care]]
-[[About/index|About]]
+[[About|About]]
