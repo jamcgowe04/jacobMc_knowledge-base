@@ -1,5 +1,9 @@
-# Common Terms to Know and Learn about in Collecting Records
+---
+title: Glossary
+date: 2026-07-25
+---
 
+Common Terms to Know and Learn about in Collecting Records
 ### This page is a glossary-style introduction on terms that New Record Collectors may want to know. I've also included an Instructional Guide that covers how to play and store records.
 ## and don't worry, as a new record collector myself, I'm still learning some things as well :)
 
@@ -10,3 +14,5 @@
 - Stylus: This tracks the grooves in a vinyl record. translating physical waveforms into an electrical audio signal. They only last a certain time, generally 500 to 1,000 hours of playback time, so any distortion or skipping you may hear (like a broken record!) that means it may be time for a replacement needle.
 
 ![[Instructional+Guide.pdf]]
+
+[^1]: 
