@@ -15,5 +15,6 @@ If a record includes posters, lyric sheets, or other inserts, they should remain
 - [[Buying/grading-records|Grading Records]]
 
 ![[Flower-Boy-Album-Cover.png|505]]
+
 *Flower Boy by Tyler, The Creator, includes this exclusive Album Jacket and poster.
 
