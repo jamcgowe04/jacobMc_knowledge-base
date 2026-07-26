@@ -1,9 +1,17 @@
+---
+title: Artists
+date: 2026-07-25
+---
 ___
-## Care for my music and player
+# Artists and Albums I've Collected So Far
 
-**___**
+This section covers the albums I've collected thus far. Every record collection reflects the musical interests of the owner. Some may focus on a single artists or genre, or may just have a little bit of everything, but exploring different styles music can broaden a collection and give insight on different artists.
 
+# Pages
+- [[Artists and Albums I have so far]]
 
-## Related Categories
+## More on Record Collecting
 
-Their are still a number of items that I hope to obtain the future in order to keep my record player running at it's best, and to keep my [[Buying/index|music]] in good condition.
+[[About/index|About]]
+[[Care/index|Care]]
+[[Buying/index|Buying]]
