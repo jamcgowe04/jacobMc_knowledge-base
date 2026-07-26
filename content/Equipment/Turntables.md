@@ -2,7 +2,7 @@
 title: Turntables
 date: 2026-07-25
 ---
-# Turntables
+___
 
 The turntable is the center of any vinyl record setup. Its spins the record at a constant speed while allowing the stylus to read the grooves etched into the vinyl. Without a properly functioning turntable, records are unable to play accurately, and poor-quality equipment may even damage a collection over time.
 

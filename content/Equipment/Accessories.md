@@ -2,7 +2,7 @@
 title: Accessories
 date: 2026-07-26
 ---
-# Accessories
+___
 
 While not required to play records, accessories can greatly improve the collecting experience and help protect a growing collection. Inner sleeves made from anti-static materials reduce dust buildup and minimize scratches, while outer sleeves protect album covers from scuffs, fingerprints, and shelf wear.
 

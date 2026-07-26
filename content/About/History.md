@@ -2,8 +2,7 @@
 title: History
 date: 2026-07-25
 ---
-2026-07-25
-# History of Vinyl Records
+
 ______
 ### For over a century, vinyl records have been a physical form of media. The roots go back to when Thomas Edison invented the phonograph in 1877. This device was powered by a crank mechanism, which had to be turned manually throughout the entire recording process. Sounds like a lot of work right? Even so, it was revolutionary at the time it was invented. The technology of the phonograph laid the foundation for turntables that came after it and is still carried today through modern record players.
 

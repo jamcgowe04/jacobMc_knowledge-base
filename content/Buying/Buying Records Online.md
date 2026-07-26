@@ -2,7 +2,7 @@
 title: Buying Records Online
 date: 2026-07-25
 ---
-# Buying Records Online
+___
 
 Online shopping has transformed record collecting by giving collectors access to albums from sellers around the world. While this provides an incredible selection, it also requires buyers to carefully evaluate listings before making a purchase.
 

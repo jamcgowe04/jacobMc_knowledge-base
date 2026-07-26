@@ -2,7 +2,7 @@
 title: Storing Records
 date: 2026-07-25
 ---
-# Storing Records
+___
 
 Proper storage is essential for maintaining the condition of a vinyl collection. Records should always be stored vertically, similar to books on a shelf. Stacking records horizontally places excessive weight on those at the bottom and may cause warping over time.
 
@@ -16,7 +16,9 @@ Outer protective sleeves help preserve album artwork by preventing shelf wear, f
 | Keep in a climate-controlled room | Store heaters or windows |
 | Organize shelves                  | Overcrowd shelves        |
 ![[Record-storage.png]]
+*A shelf of Vinyl Records in an organized fashion.*
+
 ## See Also
-- [[Care/protecting-album-cover|Protecting Album Covers]]
+- [[Care/Protecting Album Covers|Protecting Album Covers]]
 - [[Equipment/accessories| Accessories]]
 

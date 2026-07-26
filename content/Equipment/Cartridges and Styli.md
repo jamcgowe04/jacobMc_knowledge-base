@@ -2,7 +2,7 @@
 title: Cartridges and Styli
 date: 2026-07-25
 ---
-# Cartridges and Styli
+___
 
 The cartridge is mounted on the end of the tonearm and holds the stylus, commonly referred to as the needle. As the stylus travels through the grooves of a vinyl record, it converts tiny vibrations into electrical signals that become the music hear through speakers.
 

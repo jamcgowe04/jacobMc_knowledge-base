@@ -2,7 +2,7 @@
 title: " Why I Started My Own Record Collection"
 date: 2026-07-25
 ---
-# Why I Started My Own Record Collection
+___
 
 ### Earlier this year in March, I was given a record player for my birthday. I had talked about owning one before in the past and finally owning one was a dream come true.
 ### What inspired me to start a record collection was the idea of owning my favorite albums of music, but in a physical format. I believe it would also help fulfill my enjoyment and hobby of listening to music itself. For me, it sounds like a relaxing idea to just put on an album and let it play all the way through. I think it's also a good way to hear various artists differently and to really feel and imagine how they put their albums together, the process of recording each song, and how an album flows the way it does.

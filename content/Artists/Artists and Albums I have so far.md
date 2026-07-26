@@ -2,7 +2,7 @@
 title: Artists and Albums I Have So Far
 date: 2026-07-25
 ---
-# Artists and Albums I Have so Far
+___
 
 The Albums I have Collected so far have been nothing short of Masterpieces. From the Album covers they come in, to the making of the pressing, each one is distinct in its own way and has helped me see and hear the music from the artists' point of view
 

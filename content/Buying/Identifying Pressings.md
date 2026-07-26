@@ -2,7 +2,7 @@
 title: Identifying Pressings
 date: 2026-07-25
 ---
-# Identifying Pressings
+___
 
 Not every copy of an album is the same. Records are often produced in multiple pressings, each manufactured at different times, locations, or by different record labels. Understanding these differences helps collectors determine a record's authenticity, rarity, and potential value.
 

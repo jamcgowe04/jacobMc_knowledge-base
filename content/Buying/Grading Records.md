@@ -2,7 +2,7 @@
 title: Grading Records
 date: 2026-07-25
 ---
-# Grading Records
+___
 
 Understanding record grading is an essential skill for any collector. Grading provides a standardized way to describe the physical condition of both the vinyl and its album jacket, helping buyers know what to expect before making a purchase.
 

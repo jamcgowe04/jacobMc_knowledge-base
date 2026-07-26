@@ -2,7 +2,7 @@
 title: Budgeting for a Collection
 date: 2026-07-25
 ---
-# Budgeting for a Collection
+___
 
 Building a vinyl collection does not require spending thousands of dollars. Many collectors begin with inexpensive used records and gradually invest in higher-quality albums as their interests and knowledge grow. Setting a monthly budget helps collectors enjoy the hobby while avoiding unnecessary financial stress.
 

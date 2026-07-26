@@ -2,6 +2,8 @@
 title: Handling Records
 date: 2026-07-25
 ---
+___
+
 Proper handling techniques prevent scratches, fingerprints, and contamination that can reduce playback quality. Records should only be touched along  the outer edge and the center label. Contact with the grooves transfers oils and dirt from the skin, which can attract dust and create unwanted noise.
 
 Before removing a record from its sleeve, ensure your hands are clean and dry. Gently slide with the record out while supporting it with both hands. Avoid placing records on rough or dirty surfaces, and always return them to their protective sleeves after listening.
